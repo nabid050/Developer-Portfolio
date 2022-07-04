@@ -32,3 +32,14 @@ section{
     background-image: url(./Image/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(./Image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    margin-top: 5%;
+}
+#heading-one{
+    margin-left: 2%;
+}
